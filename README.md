@@ -1,29 +1,52 @@
-<h2> Hey there! I'm Medusa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning C++ / C
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Network Students, In France ✈️.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and eat noodle.
-- ☕ &nbsp; I belive, a perfect cup of coffee & little weeds can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Go | C | C++  
-- 🌐 &nbsp;  HTML | CSS | JavaScript  
-- 🛢 &nbsp; MySQL | Firebase | Xampp | WAMP
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | IntelliJ
-- 🖥 &nbsp;  Photoshop 
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-&nbsp; <a href="https://twitter.com/minatuskix86" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="mailto:medusa.pro.cc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<!-- README stylé pour Medusa -->
+<h1 align="center">Hi there, I'm <span style="color:#8A2BE2;">Medusa</span> 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast+%F0%9F%94%91;Anime+Lover+%F0%9F%8E%A9;Coffee+%2B+Code+%3D+Bliss+%E2%98%95%EF%B8%8F;Let's+Hack+the+Planet+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="coding-gif">
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+- 💻 Passionné de cybersécurité & intelligence artificielle
+- 📚 Étudiant en réseaux – France
+- 🔎 J’explore sans cesse les nouvelles technos
+- 🧠 Actuellement en train de maîtriser **C/C++**
+- 🍜 Fan d’anime & addicted aux noodles
+- ☕ Café + chill = meilleure méthode anti-stress
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,html,css,js,mysql,firebase,git,vscode,pycharm,photoshop&perline=8" alt="Tech stack icons" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://twitter.com/minatuskix86" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:medusa.pro.cc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MedusaSH&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedusaSH&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MedusaSH&theme=dracula&hide_border=true" width="90%" />
+</p>
