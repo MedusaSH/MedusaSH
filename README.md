@@ -42,11 +42,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedusaSH&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedusaSH&theme=radical&hide_border=true" width="45%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MedusaSH&theme=dracula&hide_border=true" width="90%" />
-</p>
