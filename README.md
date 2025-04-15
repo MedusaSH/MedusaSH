@@ -1,7 +1,7 @@
 
 ## 🍜 ☆ Hey i'm Medusa !
 
-<img src="https://tenor.com/bAdqQ.gif"/>
+<img src="https://tenor.com/bVwVa.gif"/>
 
 -----
 
