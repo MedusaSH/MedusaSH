@@ -1,7 +1,7 @@
 
 ## 🍜 ☆ Hey i'm Medusa !
 
-<img src="https://tenor.com/bVwVa.gif"/>
+<img src="https://preview.redd.it/coding-cat-is-raising-your-productivity-3-v0-dtkrm36qtnb81.png?auto=webp&s=bf17359fa9c55f41e0e1910558f4a8475b28091c"/>
 
 -----
 
