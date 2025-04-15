@@ -1,42 +1,57 @@
-<!-- README stylé pour Medusa -->
-<h1 align="center">Hi there, I'm <span style="color:#8A2BE2;">Medusa</span> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast+%F0%9F%94%91;Anime+Lover+%F0%9F%8E%A9;Coffee+%2B+Code+%3D+Bliss+%E2%98%95%EF%B8%8F;Let's+Hack+the+Planet+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="coding-gif">
-</p>
+## 🍜 ☆ Hey i'm Medusa !
 
----
+<img src="https://tenor.com/fr/view/michael-scofield-prison-break-rose-wentworth-miller-leonard-snart-gif-20985430" alt="Stay rusty guys ! :)"/>
 
-## 👨‍💻 About Me
+-----
 
-- 💻 Passionné de cybersécurité & intelligence artificielle
-- 📚 Étudiant en réseaux – France
-- 🔎 J’explore sans cesse les nouvelles technos
-- 🧠 Actuellement en train de maîtriser **C/C++**
-- 🍜 Fan d’anime & addicted aux noodles
-- ☕ Café + chill = meilleure méthode anti-stress
+### 👀 ☆ Visit counter :
+![visit counter onihilist](https://count.getloli.com/@onihilist?name=onihilist&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
 
----
+-----
 
-## 🧰 Tech Stack
+### 📋 ☆ About me :
+I'm a young developer currently at school, my languages of the moment is : Rust, C++, and Golang.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,html,css,js,mysql,firebase,git,vscode,pycharm,photoshop&perline=8" alt="Tech stack icons" />
-</p>
+-----
 
----
+### 📈 ☆ Github stats : 
+![onihilist's Stats](https://github-readme-stats.vercel.app/api?username=onihilist&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
+![onihilist's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onihilist&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
 
-## 📫 Let's Connect
+-----
 
-<p align="left">
-  <a href="https://twitter.com/minatuskix86" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:medusa.pro.cc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+### 💻 ☆ Languages & Technologies :
 
+[![Languages](https://skillicons.dev/icons?i=rust,go,cpp,java,ts,python,md,latex)](https://skillicons.dev) <br />
+[![Languages](https://skillicons.dev/icons?i=nodejs,nestjs,php,symfony,html,js,css,scss)](https://skillicons.dev) <br />
+[![Technologies](https://skillicons.dev/icons?i=kubernetes,docker,mysql,postgres,sqlite,postman,mongodb)](https://skillicons.dev) <br />
+[![Technologies](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+-----
+
+### 🌐 ☆ Distributions :
+
+[![Distribution](https://skillicons.dev/icons?i=windows,debian,ubuntu,kali)](https://skillicons.dev) <br />
+
+-----
+
+### 📲 ☆ Socials :
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onhilist)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oppshs)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+<!--
+**onihilist/onihilist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
