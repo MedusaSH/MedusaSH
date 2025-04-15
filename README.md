@@ -24,7 +24,7 @@ I'm a young developer currently at school, my languages of the moment is : Rust,
 ### 💻 ☆ Languages & Technologies :
 
 [![Languages](https://skillicons.dev/icons?i=go,cpp,ts,python,javascript,c)](https://skillicons.dev) <br />
-[![Languages](https://skillicons.dev/icons?i=nodejs,reactjs,php,symfony,html,js,css,scss)](https://skillicons.dev) <br />
+[![Languages](https://skillicons.dev/icons?i=nodejs,php,symfony,html,js,css,scss)](https://skillicons.dev) <br />
 [![Technologies](https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,mongodb)](https://skillicons.dev) <br />
 [![Technologies](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
