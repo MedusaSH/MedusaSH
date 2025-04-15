@@ -23,9 +23,9 @@ I'm a young developer currently at school, my languages of the moment is : Rust,
 
 ### 💻 ☆ Languages & Technologies :
 
-[![Languages](https://skillicons.dev/icons?i=rust,go,cpp,java,ts,python,md,latex)](https://skillicons.dev) <br />
-[![Languages](https://skillicons.dev/icons?i=nodejs,nestjs,php,symfony,html,js,css,scss)](https://skillicons.dev) <br />
-[![Technologies](https://skillicons.dev/icons?i=kubernetes,docker,mysql,postgres,sqlite,postman,mongodb)](https://skillicons.dev) <br />
+[![Languages](https://skillicons.dev/icons?i=go,cpp,ts,python,javascript,c)](https://skillicons.dev) <br />
+[![Languages](https://skillicons.dev/icons?i=nodejs,reactjs,php,symfony,html,js,css,scss)](https://skillicons.dev) <br />
+[![Technologies](https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,mongodb)](https://skillicons.dev) <br />
 [![Technologies](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 -----
@@ -37,21 +37,7 @@ I'm a young developer currently at school, my languages of the moment is : Rust,
 -----
 
 ### 📲 ☆ Socials :
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onhilist)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MedusaSH)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oppshs)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MedusaSHZ)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-<!--
-**onihilist/onihilist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
