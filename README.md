@@ -1,7 +1,7 @@
 
 ## 🍜 ☆ Hey i'm Medusa !
 
-<img src="https://tenor.com/bAdqQ.gif" alt="Stay rusty guys ! :)"/>
+<img src="https://tenor.com/bAdqQ.gif"/>
 
 -----
 
