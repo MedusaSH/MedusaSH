@@ -1,8 +1,8 @@
 ### 👋 Hello, moi c’est Medusa !
 
-Je suis **Software Developer**, passionnée par la **cybersécurité** et le **code**. Curieux, créatif, organisé et toujours prêt à apprendre, je me forme actuellement en Freelance.
+Je suis développeur logiciel, passionné par la cybersécurité et le code. Curieux, créatif, organisé et toujours prêt à apprendre, je me forme actuellement en tant que freelance.
 
-Mon **ambition** sur des projets professionnels à venir est pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
+Pour moi, les projets professionnels à venir sont autant d’opportunités à saisir. Ils s’inscrivent naturellement dans la continuité de mon parcours, notamment vers une spécialisation en CDA (Conception et Développement d’Applications) et en Cybersécurité.
 
 <br>
 
