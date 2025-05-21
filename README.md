@@ -6,7 +6,7 @@ Pour moi, les projets professionnels à venir sont autant d’opportunités à s
 
 <br>
 
-![Software Developer](https://img.shields.io/badge/Développeuse%20Web%20%26%20Mobile%20Full%20Stack-Dev%20Full%20Stack-blueviolet)  ![Réseau](https://img.shields.io/badge/Design-Créativité-ff69b4)  ![code](https://img.shields.io/badge/Code-Programmation-lightgreen) 
+![Software Developer](https://img.shields.io/badge/Développeur%20Web%20%26%20Mobile%20Full%20Stack-Dev%20Full%20Stack-blueviolet)  ![Réseau](https://img.shields.io/badge/Design-Créativité-ff69b4)  ![code](https://img.shields.io/badge/Code-Programmation-lightgreen) 
 ![ambition](https://img.shields.io/badge/Ambition-Croissance-yellowgreen)  ![CDA](https://img.shields.io/badge/CDA-Concepteur%20Développeur%20d'%20Applications-red) 
 ![Cybersécurité](https://img.shields.io/badge/Cybersécurité-Sécurisation-darkblue) 
 
