@@ -27,7 +27,7 @@ public class Medusa
         {
             { "Expert", new List<string> { "Python", "Lua" } },
             { "Pro", new List<string> { "Golang", "JavaScript" } },
-            { "Medium", new List<string> { "C", "C++" } }
+            { "Medium", new List<string> { "C", "C++", "Java" } }
         };
 
         List<string> Devs = new List<string> { "Backend", "Software", "Frontend (BAD)" };
