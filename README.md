@@ -41,7 +41,7 @@ public class Medusa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,python,lua,js" />
+    <img src="https://skillicons.dev/icons?i=golang,python,lua,js,java" />
   </a>
 </p>
 
