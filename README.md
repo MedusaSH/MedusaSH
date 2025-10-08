@@ -156,16 +156,6 @@ Workflow:
 
 ---
 
-## 🎮 Currently on Discord
-
-<div align="center">
-  
-<img src="https://lanyard.cnrad.dev/api/1299115208727597147?theme=dark&bg=a&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" />
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
