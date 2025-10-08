@@ -81,9 +81,7 @@ console.log("Welcome to my world! 🌍");
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedusaSH&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedusaSH&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 
 ---
 
