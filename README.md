@@ -160,7 +160,7 @@ Workflow:
 
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1299115208727597147)](https://discord.com/users/1299115208727597147)
+<img src="https://lanyard.cnrad.dev/api/1299115208727597147?theme=dark&bg=a&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" />
 
 </div>
 
