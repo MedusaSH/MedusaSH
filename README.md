@@ -111,14 +111,6 @@ console.log("Welcome to my world! 🌍");
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MedusaSH&repo=project1&theme=tokyonight)](https://github.com/MedusaSH/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MedusaSH&repo=project2&theme=tokyonight)](https://github.com/MedusaSH/project2)
-
-</div>
 
 ---
 
@@ -155,12 +147,6 @@ Workflow:
 ```
 
 ---
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YourSpotifyUsername&count=1&unique=true" alt="Spotify" />
-</div>
 
 ---
 
