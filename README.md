@@ -156,10 +156,12 @@ Workflow:
 
 ---
 
-## 🎵 Currently Vibing To
+## 🎮 Currently on Discord
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YourSpotifyUsername&count=1&unique=true" alt="Spotify" />
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1299115208727597147)](https://discord.com/users/1299115208727597147)
+
 </div>
 
 ---
