@@ -155,7 +155,10 @@ Workflow:
 ```
 
 ---
-
+<div align="center">
+[![Discord](https://img.shields.io/badge/Discord-sou1society-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com/users/1299115208727597147)
+</div>
+---
 ## 📫 Let's Connect!
 
 <div align="center">
