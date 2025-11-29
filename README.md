@@ -59,13 +59,13 @@ console.log("Welcome to my world! 🌍");
 <div align="center">
 
 ### 🔥 Expert Level
-<img src="https://skillicons.dev/icons?i=python,lua&theme=dark" alt="Expert Skills" />
+<img src="https://skillicons.dev/icons?i=python,&theme=dark" alt="Expert Skills" />
 
 ### ⚡ Professional Level  
 <img src="https://skillicons.dev/icons?i=golang,js,nodejs&theme=dark" alt="Pro Skills" />
 
 ### 📚 Intermediate Level
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs&theme=dark" alt="Intermediate Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="Intermediate Skills" />
 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,postgres,mongodb,redis,nginx&theme=dark" alt="Tools" />
